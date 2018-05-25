@@ -1,0 +1,25 @@
+header {
+  background-color: #00FF00;
+  height: 100px;
+}
+nav {
+  background-color: orange;
+  height: 100px;
+}
+.float-left {
+  background-color: yellow;
+  height: 100px;
+  width: 75%;
+  float: left;
+}
+.float-right {
+  background-color: #00FFFF;
+  width: 25%;
+  height: 100px;
+  float: right;
+}
+footer {
+  background-color: pink;
+  /*height: 100px;*/
+  padding: 90px 0;
+}
